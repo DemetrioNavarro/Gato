@@ -12,4 +12,4 @@ tres de sus símbolos, "X" o "O", ya sea en fila, columna o diagonal para ganar.
     ![Jugando1](./twoMoves.png)
     
 4. El primer jugador que conecte 3 puntos gana, en caso de que nadie logre el objetivo, se toma como un empate.
-    ![Ganador](./Ganaron las Xs.png)
+    ![Ganador](https://github.com/DemetrioNavarro/Gato/blob/main/Ganaron%20las%20Xs.png)
